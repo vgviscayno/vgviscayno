@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vgviscayno
-- 👀 I’m interested in .NET development...
+- 👀 I’m interested in .NET development (especially in desktop applications) and MERN stack development.
 - 🌱 I’m currently learning WPF development using MVVM Frameworks, and ASP.net using MVC Frameworks.
 - 💞️ I’m looking to collaborate on open-sourced projects related to systems using CRUD operations.
 - 📫 How to reach me: Gmail: vgviscayno@up.edu.ph
