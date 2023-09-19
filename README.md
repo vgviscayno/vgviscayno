@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vgviscayno a full stack developer.
-- 👀 I’m interested in MERN stack development and can dabble .NET development (especially in desktop applications).
+- 👀 I’m interested in full stack development, work with JavaScript technologies and can dabble .NET development (especially in desktop applications).
 - 🌱 I’ve learned MERN stack development, WPF development using MVVM Frameworks, and ASP.net using MVC Frameworks.
 - 💞️ I’m looking to collaborate on open-sourced projects related to systems using CRUD operations.
 - 📫 How to reach me: Gmail: viscaynovonrie@gmail.com
